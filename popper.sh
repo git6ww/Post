@@ -1,5 +1,6 @@
 #!/bin/sh
 cd /tmp/
+rm -rf origin
 mkdir origin
 cd origin
 git init .
