@@ -1,0 +1,4 @@
+/var/www
+/var/www/html
+/var/www/html/post.php
+/var/www/html/index.html
